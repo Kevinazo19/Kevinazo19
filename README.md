@@ -12,7 +12,7 @@
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" style="transform: scaleX(-1);" />
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />  
+  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 50px;" />
 </div>
 
 ## 🚀💻 Technologies & Tools
